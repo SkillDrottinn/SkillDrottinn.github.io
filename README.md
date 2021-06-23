@@ -1,2 +1,3 @@
-# SkillDrottinn.github.io
-Web Page
+# Web Page
+
+* 일단 대충 구현해놓은 웹페이지
