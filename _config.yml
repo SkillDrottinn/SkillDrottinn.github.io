@@ -10,7 +10,7 @@ copyright: '&copy; 2021 SkillDrottinn, All rights reserved.'
 markdown: kramdown
 
 # Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: teal-light_green
+material_theme: teal-green
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
 
