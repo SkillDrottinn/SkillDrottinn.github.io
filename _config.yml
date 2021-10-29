@@ -1,0 +1,21 @@
+# Site settings
+title: Skill Drottinn
+email: null
+description: Skill Drottinn's Home Page
+url: "http://skilldrottinn.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+copyright: '&copy; 2021 SkillDrottinn, All rights reserved.'
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: teal-light_green
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+
+google-analytics-ua: UA-84475574-1
+
+# Misc
+github: 'https://github.com/SkillDrottinn'
+naver_blog: 'https://blog.naver.com/qncoehtk000'
